@@ -1,5 +1,5 @@
 -  Hi, I’m SaiSankar! 👋
-- 🔥 Software Developer grinding hard to make something cool
+- 🔥 Fullstack Developer grinding hard to make something cool
 - ✨ Favorite Tech: JavaScript, React, Typescript, 
 - 📧 saimarsofficial@gmail.com
 
